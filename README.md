@@ -1,2 +1,2 @@
 # Simple Portfolio Sample
-## Playing around with responsivity
+Playing around with responsivity
